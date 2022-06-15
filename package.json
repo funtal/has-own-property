@@ -26,12 +26,12 @@
     }
   },
   "prettier": {
-    "printWidth": 80,
+    "printWidth": 100,
     "semi": true,
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "has-own-property",
+  "name": "ts-has-own-property",
   "author": "playerony",
   "module": "dist/has-own-property.esm.js",
   "size-limit": [
