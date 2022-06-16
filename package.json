@@ -51,5 +51,24 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.7.3"
-  }
+  },
+  "keywords": [
+    "Object",
+    "funtal",
+    "object",
+    "playerony",
+    "type-safe",
+    "functional",
+    "Typescript",
+    "typescript",
+    "hasOwnProperty",
+    "has-own-property-ts",
+    "ts-has-own-property",
+    "Object.hasOwnProperty",
+    "object-has-own-property",
+    "type-safe-has-own-property",
+    "type-safe-has-own-property",
+    "type-safe-object-property-keys",
+    "type-safe-object-property-keys-ts"
+  ]
 }
